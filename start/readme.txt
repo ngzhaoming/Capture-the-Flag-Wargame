@@ -1,0 +1,3 @@
+Congratulations! You have passed the first puzzle! It wasn't that hard to crack the password to the first password was it? Rest assured the subsequent puzzles will be of increasing difficulty so brace yourself with that.
+
+As you can see, we are now presented with two exec files to choose from. One of them will give you the password to the next mission while thee other will lead to your demise. So choose wisely! Since you decided to play this game, it must have proved that you are quite confident in yourself and abilities. You must take the path least taken. So, once you are ready, take a leap of faith and choose the file that you believe will lead you to victory!
