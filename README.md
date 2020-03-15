@@ -7,7 +7,11 @@ The goal of this game is to solve the various puzzles using the various clues pr
 Here are the steps to start your very own Capture the Flag Wargame:
 1. Boot up your terminal and navigate to a file which you want to clone the file into
 2. Clone the following git repository into your computer using terminal through the command ``https://github.com/ngzhaoming/Capture-the-Flag-Wargame.git``
-2. Once the repository has been cloned, you should have the necessary zip files to start on your wargame mission to capture the flag.
+3. Once the repository has been cloned, you should have the necessary zip files to start on your wargame mission to capture the flag.
+4. Throughout the whole challenge, we will make good use of several programming environments to compile and execute codes. Hence, do make sure that your computer is well equipped with the following programming environments: 
+	1. C environment: ``https://www.guru99.com/c-gcc-install.html``
+	2. Java environment: ``https://www.java.com/en/download/``
+	3. Python environment: ``https://www.python.org/downloads/``
 
 I wish you all the best in your mission and may the best coder wins! 😄
 

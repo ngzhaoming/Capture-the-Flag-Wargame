@@ -12,3 +12,6 @@ ZjcyNjcyZjY2N
 zU2YzZjMmQ2ZD
 ZmNmY2ZTJkNjY
 2MTYzNjUyZg==
+
+p.s. Notice that there is an addition folder named "side quest" located during this trial. These side quests appear occasionally during your journey. These side quests also contains challenging puzzles but they do yield good rewards upon completion! So you are encourage to try them out.
+To unlock the side quest, use the same password that is meant of the next challenge.
