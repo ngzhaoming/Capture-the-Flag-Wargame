@@ -1,7 +1,10 @@
 # Capture the Flag Wargame 🚩
 
 ### Introduction
-The goal of this game is to solve the various puzzles using the various clues provided to reach the end goal, capturing the flag. It contains several password protected files and encrypted messages which requires players' wits to solve them. It aims to simulate a "Capture the Flag" wargame with potential "land mines" scattered throughout the battlefield. Any potential mis-steps could result in dire consequences. Please play this game at your own discretion, the creator is not responsible in any mishap that could happen during the game.
+The goal of this game is to solve the various puzzles using the various clues provided to reach the end goal, capturing the flag. It contains several password protected files and encrypted messages which requires players' wits to solve them. It aims to simulate a "Capture the Flag" wargame with potential "land mines" scattered throughout the battlefield. Any potential mis-steps could result in dire consequences. Please play this game at your own discretion, the creator is not responsible in any mishap that could happen during the game. 
+
+### Additional Information
+Given in the starting file also contains a map of the whole route of the CTF game. As you can see, there are a total of 20 puzzles that you are required to solve. Not only that, there are additional side quests present which can provide you with useful information if you manage to solve it. The map will be useful to telling you the title of the puzzles that you will be embarking on. The title may or may not give you any hints/context with respect to the current puzzle that you are doing. All the best to conquer the many trials ahead of you!
 
 ### Setting up the game
 Here are the steps to start your very own Capture the Flag Wargame:
