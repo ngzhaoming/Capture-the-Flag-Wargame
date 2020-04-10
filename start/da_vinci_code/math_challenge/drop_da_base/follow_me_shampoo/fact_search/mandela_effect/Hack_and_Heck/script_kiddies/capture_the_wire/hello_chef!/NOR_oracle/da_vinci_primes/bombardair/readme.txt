@@ -1,0 +1,3 @@
+Now this challenge is a toughie! This stage is all about testing your courage and wits. It is enough to just provide you with just a readme file and an exec file. You goal is to run this exec file which will provide you the key to the next stage. However, the only caveat is that after running the code and giving you the key, it will continue to execute the code that it contains below. And I must say, the second part of the code isn't as friendly as the first. It contains a fork bomb which will detonate upon running the exec file.
+
+So the challenge here is to either, by courageous and open the exec file while face tanking the fork bomb head on. Alternatively, you can use your wit find some way to open this without much devastation. That choice is up to you to decide!
