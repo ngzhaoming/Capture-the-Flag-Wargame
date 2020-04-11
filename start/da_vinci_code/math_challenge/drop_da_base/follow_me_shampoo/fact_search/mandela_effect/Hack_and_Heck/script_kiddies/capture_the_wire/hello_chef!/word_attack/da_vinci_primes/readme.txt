@@ -1,0 +1,3 @@
+Welcome to the da Vinci primes stage of this Github capture the flag war-game. This stage is a rather interesting one and I would say it one my favourite stage that is being made. Although this stage can be a rather challenging one since there is little context given in this situation... However, the saving grace for this stage is that the answers are already  provided during the course of this game.
+
+The key to this stage is to identify 3 primes that are located throughout the entire progress of the game till now. Multiply the 3 primes together and the answer will be the key to progress on to the next stage.
