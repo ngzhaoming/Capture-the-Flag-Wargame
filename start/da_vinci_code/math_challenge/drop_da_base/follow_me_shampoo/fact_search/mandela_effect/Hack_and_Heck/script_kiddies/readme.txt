@@ -1,0 +1,3 @@
+Now check out my awesome encryption skill! I have created a script to encrypt my flags so that I don't need to waste time encrypting them and storing them in another folder for my future reference. Here is will let you have a look at the awesome script that I have made! Take a good look at it and see whether you are able to decipher the flag that I have given you for this stage.
+
+Presented in this folder is the shell script to encrypt my text files which contains my flag, and also the text file which is encrypted containing the key to this stage. Try cracking the code for this puzzle! Prove that you are not a script kiddie and generate a shell script that can crack this puzzle!
