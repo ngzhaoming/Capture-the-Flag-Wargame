@@ -1,0 +1,3 @@
+This is one of the three paths that you can take to reach the final stage, "Chicken Dinner!". But since this is a side quest, I will reward you by teleporting you to the final stage without the need to complete one additional stage.
+
+So basically word attack was not very happy that you managed to crack his password during the "word attack" stage. Hence, this side quest is dubbed as "Revenge of the word attack stage". This time he had made the challenge 10 times harder. By making the key to the final stage a 10 character string but this time, the 10 character key is not a valid word in the dictionary but instead a 10 digit hexadecimal number. Will you be able to crack this password and advance to the final stage then?
