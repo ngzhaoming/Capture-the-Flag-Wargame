@@ -1,0 +1,3 @@
+Now now, for this stage, it will be a test of your patience. For the clue to this stage is contained in one of the post of my Instagram. Do logon to Instagram and check out my profile @zhaoming_boiboi for that one entry that contains the key to the next stage. This might take a while to complete based on how active I am on my Instagram. Do drop me a follow and support me for this game too!
+
+I wish you all the best for the rest of the game and I hope this puzzle doesn't prove too much of a bottleneck for you!
