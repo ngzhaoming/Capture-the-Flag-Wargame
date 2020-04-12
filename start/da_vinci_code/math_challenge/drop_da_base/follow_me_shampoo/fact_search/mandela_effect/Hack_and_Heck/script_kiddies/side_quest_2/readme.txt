@@ -1,0 +1,1 @@
+Welcome to side quest 2! This will be the second side quest out of the 4 side quests that you will encounter during the course of this game
